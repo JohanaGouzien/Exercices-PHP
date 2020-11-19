@@ -75,6 +75,7 @@ else {
 $number = ((($a =140) + 30) /2);
 echo "Le résultat est ";
 echo $number;
-?>
+?> 
+<!-- VOIR CORRECTION PARTIE 1 -->
 
 </html>
